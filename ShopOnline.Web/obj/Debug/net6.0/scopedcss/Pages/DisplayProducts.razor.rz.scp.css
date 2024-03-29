@@ -1,0 +1,23 @@
+
+a[b-r631xo10ml] {
+    text-decoration: none;
+}
+
+a:hover .card[b-r631xo10ml] {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.card[b-r631xo10ml] {
+    transition: box-shadow 0.3s ease-in-out;
+    overflow: hidden;
+}
+
+a:hover img[b-r631xo10ml] {
+    transform: scale(1.07);
+    transition: 0.5s ease-in-out;
+}
+
+img[b-r631xo10ml] {
+    transition: 0.5s ease-in-out;
+}

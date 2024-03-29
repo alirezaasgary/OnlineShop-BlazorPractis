@@ -1,0 +1,12 @@
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.deps.json
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.dll
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\bin\Debug\net6.0\ShopOnline.Models.pdb
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.AssemblyReference.cache
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfoInputs.cache
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.AssemblyInfo.cs
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.dll
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\obj\Debug\net6.0\refint\ShopOnline.Models.dll
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\obj\Debug\net6.0\ShopOnline.Models.pdb
+D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Models\obj\Debug\net6.0\ref\ShopOnline.Models.dll

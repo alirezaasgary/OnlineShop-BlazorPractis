@@ -1,0 +1,91 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = ShopOnline.Web
+build_property.RootNamespace = ShopOnline.Web
+build_property.ProjectDir = D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\programming\Blazor-.net-sql\OnlineShop-Githob\ShopOnline.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Pages/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Pages/DisplayError.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheUVycm9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Pages/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Pages/ProductsByCategory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNCeUNhdGVnb3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Shared/CartMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENhcnRNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Pages/DisplayProducts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVByb2R1Y3RzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-r631xo10ml
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Pages/DisplaySpinner.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheVNwaW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-p9f7rduw4v
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Pages/ShoppingCart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdDYXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-2o7k8o7qyw
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-odzh4mtldn
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zzqun8vtrk
+
+[D:/programming/Blazor-.net-sql/OnlineShop-Githob/ShopOnline.Web/Shared/ProductCategoriesNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2R1Y3RDYXRlZ29yaWVzTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-qzyrdaa5ze
